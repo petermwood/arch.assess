@@ -10,7 +10,7 @@ namespace AG.Tests.FileReaderTests
     {
         #region Fields
 
-        private string _filePath = @"C:\dev\github\assessments\johanccs\Docs\";
+        private string _filePath = @"C:\Users\Remote User\source\repos\arch.assess\Docs\";
 
         #endregion
 
